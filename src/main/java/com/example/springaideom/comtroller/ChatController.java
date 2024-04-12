@@ -1,4 +1,4 @@
-package com.example.springaideom;
+package com.example.springaideom.comtroller;
 
 import org.springframework.ai.chat.ChatResponse;
 import org.springframework.ai.chat.messages.UserMessage;
